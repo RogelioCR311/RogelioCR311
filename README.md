@@ -1,7 +1,8 @@
-### Hola, bienvenido a mi perfil de GitHub 👋
+![](https://images.cooltext.com/5508510.png)
 
-<!--
-**RogelioCR311/RogelioCR311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+### Hola, bienvenido a mi perfil de GitHub 👋
 
 Algunos datos sobre mi son:
 
