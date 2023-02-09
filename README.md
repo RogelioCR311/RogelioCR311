@@ -6,3 +6,4 @@ Algunos datos sobre mi son:
 - 🌱 Actualmente estudiando en el Instituto Tecnologico de Tijuana
 - 🔭 Especialidad en Desarrollo de Software
 - 💡  Conocimientos en HTML, CSS, Python y SQL
+- 💻 Adquiriendo conocimientos en JavaScript...
