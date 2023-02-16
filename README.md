@@ -8,4 +8,4 @@ Algunos datos sobre mi son:
 - 💡  Conocimientos en HTML, C#, Python y SQL
 - 💻 Adquiriendo conocimientos en JavaScript...
 
-[Actividad: Pruebas de Markdown](https://github.com/RogelioCR311/Sistemas-Programables)
+[Repositorio: Sistemas Programables](https://github.com/RogelioCR311/Sistemas-Programables)
