@@ -7,3 +7,5 @@ Algunos datos sobre mi son:
 - 🔭 Especialidad en Desarrollo de Software
 - 💡  Conocimientos en HTML, C#, Python y SQL
 - 💻 Adquiriendo conocimientos en JavaScript...
+
+[Actividad: Pruebas de Markdown]
